@@ -5,6 +5,8 @@ This is an archival project that implements a lightweight simulation program on 
 > **D&B project**: [autonomous-car-project](https://github.com/StarDust-XCHH/autonomous-car-project.git)  
 
 
+---
+
 ## Project Structure
 
 ```txt
@@ -19,10 +21,13 @@ JSICWinterHack_Registration/
     └── util.py
 ```
 
+---
+
 ## Quick demo
 
 ![Demo GIF](assets/Demonstration_gif.gif)
 
+---
 
 ## How to Run
 
