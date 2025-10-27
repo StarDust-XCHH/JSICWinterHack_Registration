@@ -19,6 +19,11 @@ JSICWinterHack_Registration/
     └── util.py
 ```
 
+## Quick demo
+
+![Demo GIF](assets/Demonstration_gif.gif)
+
+
 ## How to Run
 
 ```bash
